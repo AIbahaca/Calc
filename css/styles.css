@@ -27,7 +27,6 @@ body {
   border-radius: 10px;
   box-shadow: 0 0 30px #cfefed;
   background-color: #cfefed;
-  /* dark theme */
 }
 .calculator #display {
   color: #12121b;
@@ -59,6 +58,9 @@ body {
 .calculator .btn-equal {
   background-color: #20ced8;
   color: #cfefed;
+}
+.calculator {
+  /* dark theme */
 }
 .calculator.dark {
   background-color: #123445;
